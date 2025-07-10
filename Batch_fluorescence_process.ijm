@@ -2,8 +2,8 @@
  * Please cite: 
  * Schindelin, J., Arganda-Carreras, I., Frise, E. et al. Fiji: an open-source platform for biological-image analysis. Nat Methods 9, 676–682 (2012). https://doi.org/10.1038/nmeth.2019
  * 
- * - opens files (single series .nd2, .tif, .vsi, or .czi) - only for fluorescence images
- * - makes IP if z-stack (as defined by user)
+ * - opens files (single series .nd2, .lif, .tif, .vsi, or .czi) - only for fluorescence images
+ * - makes intensity projections if z-stack (as defined by user)
  * - Sets colors to predifined colors
  * - Allows for auto Brightness and contrast or set values on a per channel choice
  * - Saves merge as *.tif with predifined scale bar (as overlay - B&C can still be adjusted) (if wanted)
